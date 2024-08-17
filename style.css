@@ -1,6 +1,15 @@
-body
-
 .linux{
     text-align: center;
     color: black;
+}
+
+.h4bossal{
+    text-align: center;
+    color: rgba(3, 20, 255, 0.712);
+}
+
+.filmevr{
+    text-align: center;
+    color: rgba(132, 0, 255, 0.589);
+    text-shadow: none;
 }
